@@ -10,7 +10,6 @@ public class is_it_perfect {
             int pd = 0;
             for (int j = 1; j < n; j++) {
                 if (n % j == 0) {
-                    System.out.print(j + " ");
                     pd = pd + j;
                 }
             }

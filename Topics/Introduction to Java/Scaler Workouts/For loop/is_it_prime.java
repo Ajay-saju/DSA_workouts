@@ -19,6 +19,5 @@ public class is_it_prime {
         } else {
             System.out.print("YES");
         }
-
     }
 }
