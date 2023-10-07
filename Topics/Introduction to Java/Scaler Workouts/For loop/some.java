@@ -1,5 +1,8 @@
+import java.util.Scanner;
+
 public class some {
     public static void main(String[] args) {
-        System.out.print(2 % 1);
+        Scanner scn = new Scanner(System.in);
+        int n = scn.nextInt();
     }
 }

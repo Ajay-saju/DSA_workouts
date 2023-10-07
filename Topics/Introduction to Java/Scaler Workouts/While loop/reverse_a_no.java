@@ -14,6 +14,7 @@ public class reverse_a_no {
             n = n / 10;
         }
         System.out.print(rev);
+        
 
     }
 }

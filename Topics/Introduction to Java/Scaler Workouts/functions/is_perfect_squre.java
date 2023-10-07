@@ -6,16 +6,13 @@ public class is_perfect_squre {
     }
 
     public static int solve(int A) {
-        int count = 0;
-        for (int i = 1; i <= A; i++) {
-            if (i * i == A) {
-                count++;
+        
+        for (int i = 1 ;i <=A; i++){
+            if(i*i == A){
+               return 1;
             }
         }
-        if (count == 1) {
-            return 1;
-        } else {
-            return 0;
-        }
+        return 0;
+        
     }
 }
