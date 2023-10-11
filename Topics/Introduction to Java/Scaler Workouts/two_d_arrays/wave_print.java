@@ -28,7 +28,9 @@ public class wave_print {
                     System.out.print(arr[j][i] + " ");
                 }
             } else {
-                for (int j = n - 1; j >= n; j--) {
+                // System.out.print("hi" + i + " ");
+
+                for (int j = n - 1; j >= 0; j--) {
                     System.out.print(arr[j][i] + " ");
                 }
             }
