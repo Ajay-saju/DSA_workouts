@@ -1,4 +1,4 @@
-package QuerySum;
+package Prifix_Array.QuerySum;
 
 public class FindQuerySum {
 

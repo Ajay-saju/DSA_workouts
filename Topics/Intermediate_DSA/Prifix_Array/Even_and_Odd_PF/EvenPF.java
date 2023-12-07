@@ -1,5 +1,5 @@
 
-package Even_and_Odd_PF;
+package Prifix_Array.Even_and_Odd_PF;
 
 import java.util.Arrays;
 
