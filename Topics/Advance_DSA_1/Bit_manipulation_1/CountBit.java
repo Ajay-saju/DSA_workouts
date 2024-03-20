@@ -4,8 +4,20 @@
 class CountBit{
 
     public static void main (String []args){
-        countSetBits(12);
+        countSetBit(12);
     }
+    // Another approch
+    public static void  countSetBit(int n ){
+        int ans=0;
+        while(n>0){
+            if((n & 1)==1){
+                ans++;
+            }
+            n = n>>1;
+        }
+        System.out.println(ans);
+    }
+
     public static void countSetBits(int n ){
         int ans=0;
         for (int i = 0; i < 32; i++) {
