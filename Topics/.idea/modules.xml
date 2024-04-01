@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advance_DSA_1/Advance_DSA_1.iml" filepath="$PROJECT_DIR$/Advance_DSA_1/Advance_DSA_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance_DSA_2/Binary_Search_1/Binary_Search_1.iml" filepath="$PROJECT_DIR$/Advance_DSA_2/Binary_Search_1/Binary_Search_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediate_DSA/Intermediate_DSA.iml" filepath="$PROJECT_DIR$/Intermediate_DSA/Intermediate_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Scaler Workouts/Scaler Workouts.iml" filepath="$PROJECT_DIR$/Introduction to Java/Scaler Workouts/Scaler Workouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topics.iml" filepath="$PROJECT_DIR$/Topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Java/othors/othors.iml" filepath="$PROJECT_DIR$/Introduction to Java/othors/othors.iml" />
+    </modules>
+  </component>
+</project>

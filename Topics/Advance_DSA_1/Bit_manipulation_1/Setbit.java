@@ -1,7 +1,7 @@
 class Setbit{
     // set bits in a range.
     public static void main (String []args){
-        setBitInaRange(2,4,2);
+        setBitInaRange(4,3,2);
     }
     public static void  setBitInaRange(int a,int b,int c){
         int ans=0;

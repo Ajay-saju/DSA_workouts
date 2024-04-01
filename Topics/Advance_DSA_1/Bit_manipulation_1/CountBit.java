@@ -4,7 +4,7 @@
 class CountBit{
 
     public static void main (String []args){
-        countSetBit(12);
+        countSetBits(10);
     }
     // Another approch
     public static void  countSetBit(int n ){
@@ -21,9 +21,10 @@ class CountBit{
     public static void countSetBits(int n ){
         int ans=0;
         for (int i = 0; i < 32; i++) {
-            if(checkTheBit_isSet(n,i)==true){
+            if(checkTheBit_isSet(n, i)){
                 ans =ans+1;
             }
+
         }
         System.out.println(ans);
 
