@@ -7,6 +7,7 @@ public class LocalMinima {
     }
 
     private static int findLocalMinima(int[] arr) {
+        int ans= Integer.MAX_VALUE;
 
         int n = arr.length;
         int low = 0;
