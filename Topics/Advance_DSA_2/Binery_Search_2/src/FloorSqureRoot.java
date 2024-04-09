@@ -1,12 +1,12 @@
 public class FloorSqureRoot {
     public  static  void  main(String[]args){
-        int n = 25 ;
+        int n = 2147483647 ;
         System.out.println(findSqureRoot(n));
     }
 
     private static int findSqureRoot(int n) {
 
-        int low = 1 ; int high = n-1;
+        int low = 1 ; int high = n;
         int ans = -1;
         while(low <= high){
             int mid = low + (high - low)/2;
