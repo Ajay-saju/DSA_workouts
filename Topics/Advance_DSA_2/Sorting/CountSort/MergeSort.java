@@ -7,6 +7,8 @@ public class MergeSort {
     // Merge two sorted array
     // Given an integer array where all odd elements are sorted and even elements
     // are sorted we have to sort the entire array
+    // T.C = O(n)
+    // S.C = O(n);
 
     public static void main(String[] args) {
         int[] arr = { 2, 5, 4, 8, 11, 13, 10, 15, 21 };
