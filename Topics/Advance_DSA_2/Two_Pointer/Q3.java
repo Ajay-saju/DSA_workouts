@@ -14,6 +14,8 @@ public class Q3 {
     }
 
     private static void solve(int[] arr, int k) {
+
+        
       
         int i = 0;
         int j = arr.length-1;

@@ -8,8 +8,8 @@ public class Ques_1 {
     // 2 painters cant share a bored 
 
     public static void main(String[] args) {
-        int [] A = {1,1,1,2,1,100};
-        int k = 2;
+        int [] A = {8840,2280,4420,8890};
+        int k = 4;
         System.out.println(minimumTime(A,k));
     }
 
